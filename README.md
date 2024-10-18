@@ -4,8 +4,8 @@ Este projeto visa criar um sistema para o gerenciamento de restaurante, incluind
 
 ## Perguntas que estruturaram o sistema
 
-### 1. 
-### 2. 
+### 1. Quais itens foram pedidos por cada mesa?
+### 2. Qual o valor que cada mesa deve pagar ao fechar a conta?
 <br>
 <h3>Imagens da interface:</h3><br>
 <img src="https://github.com/hnrq404/gerenciamentoDeRestaurante/blob/main/assets/escolhaDaMesa.png" alt="img-fazer-pedido">
